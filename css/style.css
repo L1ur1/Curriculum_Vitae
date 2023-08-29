@@ -1,0 +1,44 @@
+body {
+    background-color: #ffe4c4;
+}
+
+.h1 {
+    color:#0000ff;
+    text-align: center;
+}
+#h2 {
+    color: #000000;
+    text-align: center;
+}
+
+.curriculum-item{
+    background-color: #00ffff;
+    text-align: center;
+    margin: 3px;
+    list-style: none;
+    padding-left: 0;
+    text-align: center; 
+}
+
+.curriculum-item{
+    display: inline-block;
+}
+
+.curriculum-item a{
+    color: #000000;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    border-right: 2px;
+    
+}
+
+.curriculum-item a:hover{
+    background-color: #ffffff;
+    color: #0000ff;
+}
+
+.curriculum-item a:active{
+    background-color: #ffffff;
+    color: #0000ff;
+}
